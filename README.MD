@@ -1,7 +1,7 @@
 # Part 1
-1. Install RaghavAndroidApp and open in Anroid Studio.
+1. Install RaghavAndroidApp and open in Android Studio.
 
-2. Run on any Android device to measure heart rate, respiratory rate and current location coordinates.
+2. Run on any Android device to measure heart rate, respiratory rate and get current location coordinates.
 
 3. Click 'Upload Symptoms' to create a local database.
 
