@@ -1,3 +1,12 @@
+# Part 1
+1. Install RaghavAndroidApp and open in Anroid Studio.
+
+2. Run on any Android device to measure heart rate, respiratory rate and current location coordinates.
+
+3. Click 'Upload Symptoms' to create a local database.
+
+
+# Part 2
 1. Dependencies
 	- Install nginx server and PHP for Windows.
 	- pip install sqlalchemy
